@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+
+Sitemap: http://kancelaria-adwokacka-portfolio.local/sitemap.xml
+Sitemap: http://kancelaria-adwokacka-portfolio.local/sitemap.rss
